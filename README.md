@@ -1,6 +1,7 @@
 ## Hi there, I'm Cong, a Software Engineer <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 ![LaVa264](https://komarev.com/ghpvc/?username=LaVa264)
+![EmbeddedOS](https://komarev.com/ghpvc/?username=EmbeddedOS)
 
 **Things I can do:**
 
